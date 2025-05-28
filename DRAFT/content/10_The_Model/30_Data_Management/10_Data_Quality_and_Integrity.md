@@ -15,36 +15,11 @@ Definitions:
 
 3. Identify and Prioritize Risk Areas: Detect gaps in data sourcing, governance, and lifecycle management that could expose AI systems to risks such as model drift, data poisoning, decision errors, or compliance failures.
 
+#### Data Quality and Integrity Implementation Maturity Model
 
-
-#### Data Management Maturity Model: Data Quality and Data Integrity
-
-| **Maturity Level**              | **Stream A** (Fitness for AI use)                                                                                                                                              | **Stream B** (Trust & Consistency)                                                                                                                                     |
-|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Level 1: Ad Hoc / Initial**    | - Data is siloed, unstructured, and lacks standard definitions.  <br>- High presence of duplicates, missing values, and noise.  <br>- No validation rules for accuracy or relevance. | - No lineage or traceability.  <br>- Data is manually updated with high risk of tampering or corruption.  <br>- Auditability is absent or unreliable.                     |
-| **Level 2: Defined / Developing**| - Basic profiling and cleansing implemented.  <br>- Initial completeness and consistency rules applied.  <br>- Data cataloging and metadata tracking begins.                      | - Data lineage partially implemented across core systems.  <br>- Change tracking exists but not automated.  <br>- Some access controls in place, but inconsistently enforced. |
-| **Level 3: Managed / Operational**| - - Standardized definitions and metrics for quality dimensions (accuracy, completeness, consistency, timeliness).- Periodic quality checks across structured/unstructured data.<br>- LLM-specific filters (e.g., toxicity, hallucination-prone data) applied.- Data actively curated based on model feedback, real-time quality scoring, and continuous tracking of bias and representativeness metrics. | - Full lineage and versioning enabled across AI pipelines.- Automated monitoring for integrity violations.<br>- Immutable audit logs, integrated data integrity checkpoints, and active anomaly detection flags for corruption, drift, or unauthorized changes. |
-
-#### Metrics
-
-1. **Data Accuracy Rate**
-   - **Type:** Data Quality
-   - **Description:** Percentage of data entries that correctly reflect real-world values or events. Essential to ensure that AI models learn from reliable and valid inputs.
-
-2. **Data Freshness / Timeliness**
-   - **Type:** Data Quality + Data Integrity
-   - **Description:** Measures how current the data is at the time of model training or inference. Crucial for real-time agentic AI and retrieval-augmented generation (RAG) systems.
-
-3. **Lineage & Provenance Coverage**
-   - **Type:** Data Integrity
-   - **Description:** Percentage of datasets with full traceability from source to transformation and usage. Enables trust, auditability, and compliance in AI workflows.
-
-4. **Bias & Representation Score**
-   - **Type:** Data Quality
-   - **Description:** Quantifies the level of overrepresentation or underrepresentation of different groups or classes in datasets. Helps reduce bias in LLMs and supports responsible AI.
-
-5. **Data Drift / Anomaly Rate**
-   - **Type:** Data Integrity + Data Quality
-   - **Description:** Frequency at which input data distributions change unexpectedly over time. Critical for detecting model decay and ensuring long-term reliability of AI systems.
-
+| Maturity Level                                                                                                                                           | Stream A - Fitness for AI Use                                                                                                                                                                                                                                                                                                                                               | Stream B - Trust & Consistency                                                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1 - Ad Hoc / Initial**<br>*(Unstructured and inconsistent practices, no standard data quality or integrity protocols.)*                                | - **Siloed Data:** Data fragmented, unstructured, lacking standardized definitions.<br>- **Poor Quality:** High duplicates, missing values, and noise.<br>- **No Validation:** Absence of accuracy or relevance validation rules.                                                                                                                                           | - **No Traceability:** Data lineage or traceability non-existent.<br>- **Manual Handling:** High risk of tampering or corruption due to manual updates.<br>- **Poor Auditability:** Audit logs absent or unreliable.                                                                                                                                                 |
+| **2 - Defined / Developing**<br>*(Basic structures and initial rules for managing data quality and integrity are implemented.)*                          | - **Initial Cleansing:** Basic data profiling and cleansing processes implemented.<br>- **Early Standards:** Initial completeness and consistency rules applied.<br>- **Metadata Tracking:** Early stages of data cataloging and metadata management.                                                                                                                       | - **Partial Lineage:** Data lineage partially established across main systems.<br>- **Manual Change Tracking:** Some manual tracking of data changes, minimal automation.<br>- **Inconsistent Controls:** Access controls in place but inconsistently enforced.                                                                                                      |
+| **3 - Managed / Operational**<br>*(Fully integrated data management practices with robust, automated mechanisms for maintaining quality and integrity.)* | - **Standardized Metrics:** Defined metrics for accuracy, completeness, consistency, and timeliness systematically tracked.<br>- **Active Quality Management:** Continuous data quality checks, real-time scoring, LLM-specific data filters (e.g., toxicity, hallucination-prone data).<br>- **Curated Data:** Regular curation based on model feedback and bias tracking. | - **Full Traceability:** Comprehensive lineage and versioning across entire AI data pipeline.<br>- **Automated Integrity Checks:** Real-time monitoring, immutable audit logs, automated anomaly detection for corruption, drift, or unauthorized changes.<br>- **Proactive Compliance:** Integrated integrity checkpoints supporting rigorous compliance standards. |
 
