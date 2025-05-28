@@ -20,34 +20,10 @@ The objectives of assessing **Data Training** within an AI maturity model are to
 
 5. **Maintain Transparency and Auditability:** Enable clear traceability of data origins, transformations, and usage throughout the training pipeline to support audits and regulatory inquiries.
 
+#### Data Training Implementation Maturity Model
 
-| **Maturity Level**                 | **Dataset Management** (Accuracy, Consistency, Curation)                                                                              | **Monitoring & Compliance** (Security, Licensing, Ethical Use)                                                                          |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Level 1: Ad Hoc / Initial**      | - Training data gathered unstructured, ad hoc.<br>- No labeling standards or curation processes.                                      | - No monitoring for compliance, bias, or security.<br>- Third-party data used without licensing or consent checks.                      |
-| **Level 2: Defined / Developing**  | - Initial guidelines for dataset collection and labeling established.<br>- Manual validation for a subset of training data conducted. | - Basic privacy checks applied.<br>- Growing awareness of licensing and regulatory obligations.                                         |
-| **Level 3: Managed / Operational** | - Standardized data preparation pipelines established.<br>- Automated quality control, deduplication, and labeling accuracy checks.   | - Regular compliance and bias audits conducted.<br>- External datasets vetted for rights usage.<br>- Secure handling of sensitive data. |
-
-#### Metrics: 
-
-1. **Label Accuracy Rate**
-   - Measures the percentage of correctly labeled data used for training.
-   - Ensures model learns from reliable, high-quality examples, especially important for supervised and fine-tuned LLMs.
-
-2. **Bias & Representation Score**
-   - Evaluates diversity and fairness across attributes (e.g., gender, region, language) in the dataset.
-   - Prevents bias in model outputs and supports responsible AI practices.
-
-3. **Data Source Licensing Compliance**
-   - Percentage of training data with verified licensing, usage rights, and consent.
-   - Essential when using web-scraped, user-generated, or third-party datasets to avoid legal and ethical risks.
-
-4. **Data Auditability / Lineage Coverage**
-   - Degree to which training data lineage (source → processing → use) is traceable and documented.
-   - Supports transparency, explainability, and regulatory readiness.
-
-5. **Drift & Toxicity Monitoring Coverage**
-   - Measures how well the organization detects and handles data drift or toxic/harmful content over time.
-   - Critical for maintaining model safety and relevance in real-world applications.
-
-
-
+| Maturity Level                                                                                            | Stream A - Dataset Management (Accuracy, Consistency, Curation)                                                                                                                                                                                                                                                                                                                                                                   | Stream B - Monitoring & Compliance (Security, Licensing, Ethical Use)                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1 - Ad Hoc / Initial**<br>*(Training data management is unstructured, informal, and lacks standards.)*  | - **Unstructured Collection:** Data gathered without structured processes, inconsistent quality.<br>- **No Labeling Standards:** Absence of formal labeling guidelines or dataset curation practices.<br>- **Manual Validation:** Minimal or no validation; data quality highly variable.                                                                                                                                         | - **No Compliance Checks:** Lack of monitoring for compliance, bias, or security.<br>- **Unchecked Data Use:** Third-party or user-generated data integrated without licensing or consent verification.<br>- **Security Risk:** High risk of privacy breaches or ethical violations due to unmonitored datasets.                                                                                          |
+| **2 - Defined / Developing**<br>*(Basic guidelines and initial compliance awareness in place.)*           | - **Guidelines Established:** Initial standards for dataset collection, labeling, and validation set.<br>- **Partial Validation:** Manual validation and checks performed on subsets of training data.<br>- **Early-stage Curation:** Early stages of data quality management and documentation established.                                                                                                                      | - **Initial Privacy Checks:** Basic privacy and security compliance checks introduced.<br>- **Licensing Awareness:** Increased awareness and preliminary adherence to licensing and regulatory obligations.<br>- **Bias Awareness:** Emerging processes to identify obvious bias or harmful content, though inconsistently applied.                                                                       |
+| **3 - Managed / Operational**<br>*(Fully structured, automated, and compliant training data management.)* | - **Automated Pipelines:** Standardized, automated pipelines for data preparation, quality control, deduplication, and labeling accuracy checks fully operational.<br>- **Continuous Validation:** Real-time or regular validation ensuring high-quality, representative, and reliable training data.<br>- **Dynamic Curation:** Active dataset curation based on model feedback, performance metrics, and evolving requirements. | - **Systematic Compliance:** Routine compliance audits for security, licensing, ethical use, and bias mitigation.<br>- **Verified Usage Rights:** Comprehensive vetting and documentation for third-party and sensitive data usage.<br>- **Robust Security Measures:** Secure data handling protocols with regular drift and toxicity monitoring, maintaining regulatory readiness and ethical standards. |
