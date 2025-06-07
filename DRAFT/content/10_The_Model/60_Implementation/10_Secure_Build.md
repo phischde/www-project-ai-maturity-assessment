@@ -9,7 +9,3 @@ Establish secure integration of AI/LLM components by promoting responsible sourc
 | **Level 2**        | **Secure AI Development Guidelines**: <br>- Define secure coding and data handling practices. <br>- Perform AI-specific code reviews.                    | **AI Component Hardening**:<br>- Implement input/output sanitization.<br>- Use version control for models and datasets.<br>- Validate outputs. |
 | **Level 3**        | **AI Supply Chain Risk Management**:<br>- Conduct risk assessments. <br>- Maintain asset custody and request attestations.                               | **Adversarial Robustness and Resilience**:<br>- Perform adversarial testing.<br>- Integrate checks in CI/CD.<br>- Test edge-case behavior.     |
 
-#### Metrics
-* Percentage of AI components with complete inventory and source validation
-* Number of AI-related vulnerabilities identified pre-deployment
-* Coverage of adversarial robustness testing across deployed models
