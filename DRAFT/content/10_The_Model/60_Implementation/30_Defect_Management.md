@@ -12,8 +12,3 @@ Continuously identify, categorize, and mitigate AI-specific defects, improving m
 Effective defect management in AI systems demands more than traditional bug tracking. It must extend to monitoring for ethical failures (e.g., biased outputs), reliability issues (e.g., hallucinations), and security vulnerabilities (e.g., model inversion attacks). Additionally, organizations should aim for proactive identification of emerging risks through user feedback, anomaly detection, and adaptive testing strategies that evolve alongside the deployed AI solutions.
 
 This implementation extension provides actionable practices for teams incorporating AI systems into software while maintaining alignment with the overall security maturity model. Organizations that internalize these practices will be better equipped to responsibly leverage AI technologies while managing their associated risks with transparency and resilience.
-
-#### Metrics
-* Number of AI defects identified post-deployment
-* Percentage of AI issues triaged with defined severity
-* Time to resolution for critical AI-related issues
