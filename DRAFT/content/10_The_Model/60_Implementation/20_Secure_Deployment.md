@@ -12,9 +12,3 @@ Ensure resilient and compliant deployment of AI components by enforcing access c
 
 Secure deployment of AI requires organizations to recognize that models do not behave as static software artifacts but evolve over time. Therefore, deployment strategies must account for model drift, environmental changes, and real-world adversarial conditions. Continuous operational monitoring and governance are vital to ensure that deployed AI systems remain effective, fair, and secure throughout their lifecycle.
 
-#### Metrics
-* Percentage of AI deployments with documented configuration and rollback plans
-* Incidents of unauthorized access to model endpoints or data
-* Detection rate of drift, hallucination, or performance degradation
-
-> NOTE: We need to sync this with Operations, once complete. I feel like many of the Technical Controls could also be in Operations. 
