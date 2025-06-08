@@ -4,6 +4,9 @@ The AI Maturity Assessment (AIMA) model provides a structured framework for eval
 
 AIMA translates high-level AI principles into actionable guidance, equipping organizations to navigate regulatory requirements and align AI development with societal expectations. With clear maturity benchmarks and structured guidance, the model is designed to be applicable to organizations of all sizes and maturity levels, facilitating responsible innovation and secure deployment of AI systems.
 
+![AIMA model diagram](./AIMA_model.png)
+
+
 ### Governance
 
 - **Strategy and Metrics:** Defining and tracking AI-specific strategic objectives and measurable outcomes aligned with organizational goals, risk appetite, and ethical frameworks.

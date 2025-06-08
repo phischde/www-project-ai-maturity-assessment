@@ -7,7 +7,6 @@ from markdown import markdown
 from pathlib import Path
 from weasyprint import HTML
 
-# Toggle to enable/disable structural validation
 VALIDATE_STRUCTURE = False
 
 def sanitize_heading(text):
@@ -43,6 +42,18 @@ def validate_markdown(file_path: Path, html: str):
 
     return headings
 
+def resolve_image_paths(html: str, base_path: Path) -> str:
+    def repl(match):
+        src = match.group(1)
+        abs_path = (base_path / src).resolve()
+        if not abs_path.exists():
+            print(f"Warning: Image file not found: {abs_path}")
+        else:
+            print(f"Embedding image: {src} → {abs_path}")
+        return f'<img src="file://{abs_path}" style="display: block; margin: 2em auto; max-width: 100%;" />'
+
+    return re.sub(r'<img\s+[^>]*src="([^"]+)"[^>]*>', repl, html)
+
 def generate_pdf(input_dir: Path, output_file: Path):
     markdown_files = sorted(
         [
@@ -64,7 +75,8 @@ def generate_pdf(input_dir: Path, output_file: Path):
         with open(file, encoding='utf-8') as f:
             raw_md = f.read()
             raw_md = transform_special_blockquotes(raw_md)
-            html = markdown(raw_md, extensions=['extra', 'nl2br', 'sane_lists'])
+            html = markdown(raw_md, extensions=['extra', 'nl2br', 'sane_lists', 'attr_list'])
+            html = resolve_image_paths(html, file.parent)
             headings = validate_markdown(file.relative_to(input_dir), html)
 
             for level, heading in headings:
@@ -152,6 +164,13 @@ def generate_pdf(input_dir: Path, output_file: Path):
         p, li, table, blockquote {{
             orphans: 2;
             widows: 2;
+        }}
+
+        img {{
+            display: block;
+            margin: 2em auto;
+            max-width: 100%;
+            height: auto;
         }}
 
         .watermark {{
