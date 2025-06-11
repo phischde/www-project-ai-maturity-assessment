@@ -7,17 +7,17 @@ AIMA translates high-level AI principles into actionable guidance, equipping org
 ![AIMA model diagram](./AIMA_model.png)
 
 
-### Governance
-
-- **Strategy and Metrics:** Defining and tracking AI-specific strategic objectives and measurable outcomes aligned with organizational goals, risk appetite, and ethical frameworks.
-- **Policy and Compliance:** Establishing and enforcing AI-focused policies, standards, and regulatory compliance frameworks to ensure ethical, legal, and secure AI usage.
-- **Education and Awareness:** Providing tailored training, guidance, and resources to stakeholders involved in AI systems, promoting responsible and secure practices.
-
 ### Responsible AI Principles
 
 - **Fairness and Bias:** Identifying, mitigating, and monitoring biases within AI systems to ensure equitable outcomes.
 - **Transparency and Explainability:** Enhancing AI system transparency and interpretability to build trust and facilitate accountability.
 - **Ethical and Societal Impact:** Assessing and addressing the broader ethical and societal implications of AI deployment and usage.
+
+### Governance
+
+- **Strategy and Metrics:** Defining and tracking AI-specific strategic objectives and measurable outcomes aligned with organizational goals, risk appetite, and ethical frameworks.
+- **Policy and Compliance:** Establishing and enforcing AI-focused policies, standards, and regulatory compliance frameworks to ensure ethical, legal, and secure AI usage.
+- **Education and Awareness:** Providing tailored training, guidance, and resources to stakeholders involved in AI systems, promoting responsible and secure practices.
 
 ### Data Management
 

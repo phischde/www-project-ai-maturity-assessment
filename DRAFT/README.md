@@ -18,21 +18,21 @@ tags: AIMA
 
 [ -- The AIMA Model](./content/00_Intro/40_The_AIMA_Model.md)
 
-[**Governance**](content/10_The_Model/10_Governance/00_index.md)
+[**Responsible AI**](content/10_The_Model/10_Responsible_AI_Principles/00_index.md)
 
-[ -- Strategy and Metrics](content/10_The_Model/10_Governance/10_Strategy_and_Metrics.md)
+[ -- Fairness and Bias](content/10_The_Model/10_Responsible_AI_Principles/10_Fairness_and_Bias.md)
 
-[ -- Policy and Compliance](content/10_The_Model/10_Governance/20_Policy_and_Compliance.md)
+[ -- Transparency and Explainability](content/10_The_Model/10_Responsible_AI_Principles/20_Transparency_and_Explainability.md)
 
-[ -- Education and Guidance](content/10_The_Model/10_Governance/30_Education_and_Awareness.md)
+[ -- Ethical and Societal Impact](content/10_The_Model/10_Responsible_AI_Principles/30_Ethical_and_Societal_Impact.md)
 
-[**Responsible AI**](content/10_The_Model/20_Responsible_AI_Principles/00_index.md)
+[**Governance**](content/10_The_Model/20_Governance/00_index.md)
 
-[ -- Fairness and Bias](content/10_The_Model/20_Responsible_AI_Principles/10_Fairness_and_Bias.md)
+[ -- Strategy and Metrics](content/10_The_Model/20_Governance/10_Strategy_and_Metrics.md)
 
-[ -- Transparency and Explainability](content/10_The_Model/20_Responsible_AI_Principles/20_Transparency_and_Explainability.md)
+[ -- Policy and Compliance](content/10_The_Model/20_Governance/20_Policy_and_Compliance.md)
 
-[ -- Ethical and Societal Impact](content/10_The_Model/20_Responsible_AI_Principles/30_Ethical_and_Societal_Impact.md)
+[ -- Education and Guidance](content/10_The_Model/20_Governance/30_Education_and_Awareness.md)
 
 [**Data Management**](content/10_The_Model/30_Data_Management/00_index.md)
 
