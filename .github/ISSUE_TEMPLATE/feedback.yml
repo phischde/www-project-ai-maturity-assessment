@@ -39,7 +39,7 @@ body:
   - type: textarea
     id: context
     attributes:
-      label: Optional: Additional Context
+      label: Optional - Additional Context
       description: If relevant, include why this matters to you or how it affected your use of the documentation.
       placeholder: I was using this during a workshop with X and found...
     validations:
