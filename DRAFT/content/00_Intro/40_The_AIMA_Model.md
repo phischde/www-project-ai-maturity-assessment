@@ -9,9 +9,9 @@ AIMA translates high-level AI principles into actionable guidance, equipping org
 
 ### Responsible AI Principles
 
-- **Fairness and Bias:** Identifying, mitigating, and monitoring biases within AI systems to ensure equitable outcomes.
-- **Transparency and Explainability:** Enhancing AI system transparency and interpretability to build trust and facilitate accountability.
 - **Ethical and Societal Impact:** Assessing and addressing the broader ethical and societal implications of AI deployment and usage.
+- **Transparency and Explainability:** Enhancing AI system transparency and interpretability to build trust and facilitate accountability.
+- **Fairness and Bias:** Identifying, mitigating, and monitoring biases within AI systems to ensure equitable outcomes.
 
 ### Governance
 
