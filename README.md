@@ -20,6 +20,6 @@ Mission Statement: The OWASP AI Maturity Assessment (AIMA) aims to be the premie
 - Join the Discussion on the OWASP Slack Channel [#project-aima](https://owasp.slack.com/archives/C089K6KFZMG)
 
 ## Start contributing
-* [CONTENT](https://github.com/OWASP/www-project-ai-maturity-assessment)
+* [CONTENT](https://github.com/OWASP/www-project-ai-maturity-assessment/tree/main/DRAFT/content)
 
 Here is the official [OWASP AIMA project page](https://owasp.org/www-project-ai-maturity-assessment/)
