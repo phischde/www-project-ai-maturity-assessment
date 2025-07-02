@@ -10,7 +10,7 @@ Operational Management encompasses processes and practices aimed at maintaining 
 * **Proactive Maintenance:** Implement regular maintenance schedules to prevent operational disruptions and maintain system health.
 * **Adaptability and Scalability:** Manage operations flexibly to accommodate changes, updates, and scalability requirements.
 
-# System Monitoring & Security Maturity Model
+#### Streams
 
 | Maturity Level | Stream A – System Monitoring & Maintenance | Stream B – Security & Compliance Management |
 |----------------|---------------------------------------------|---------------------------------------------|

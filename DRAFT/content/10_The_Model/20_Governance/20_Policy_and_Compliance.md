@@ -8,7 +8,7 @@ The **Policy & Compliance** practice translates high-level AI-security and Respo
 - **Ensure and Demonstrate Compliance** with applicable laws, regulations, and internal governance requirements.  
 - **Drive Continuous Policy Improvement** through regular reviews, monitoring, and automation of enforcement and assurance activities.  
 
-##### Policy and Compliance  
+#### Streams
 
 | Maturity Level | Stream A – Develop & Enforce Policies | Stream B – Compliance & Risk Oversight |
 |----------------|----------------------------------------|----------------------------------------|

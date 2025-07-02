@@ -8,6 +8,7 @@ The AIMA Architecture Assessment practice ensures AI system architectures consis
 - Identify and remediate architectural vulnerabilities.
 - Continuously refine AI system architectures based on assessment insights.
 
+#### Streams
 | Maturity Level | Stream A - Conduct Architecture Reviews | Stream B - Measure and Improve Architecture |
 |----------------|---------------------------------------|-------------------------------------------|
 | **1 - Initial Steps Toward AI Architecture Governance** with basic processes and practices in place | - Architecture reviews informal or ad hoc.<br>- Limited awareness of AI-specific architecture standards.<br>- Reactive to architecture-related incidents rather than proactive assessments. | - Few or no metrics related to architectural quality or security.<br>- Irregular documentation of assessment outcomes.<br>- Limited stakeholder engagement or reporting. |

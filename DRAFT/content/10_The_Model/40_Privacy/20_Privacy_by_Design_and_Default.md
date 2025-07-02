@@ -8,7 +8,7 @@ Privacy by Design and Default (PbD&D) is a foundational principle for building t
 4. Integrate privacy assessments and controls into development pipelines, CI/CD workflows, and governance reviews.
 5. Continuously monitor, measure, and improve privacy effectiveness using KPIs and automation.
 
-#### Privacy by Design and Default – Maturity Model
+#### Streams
 
 | **Maturity Level** | **Governance & Implementation** | **Design & Engineering Enablement** |
 |--------------------|----------------------------------|-------------------------------------|

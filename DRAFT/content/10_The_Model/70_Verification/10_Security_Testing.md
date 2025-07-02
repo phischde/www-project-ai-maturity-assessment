@@ -8,6 +8,7 @@ The AIMA Security Testing practice is essential for proactively identifying and 
 - Ensure resilience against model poisoning and robustness failures.
 - Foster continuous improvement in AI security practices based on security insights.
 
+#### Streams
 | Maturity Level | Stream A - Conduct Security Assessments | Stream B - Measure and Improve Security |
 |----------------|---------------------------------------|-----------------------------------------|
 | **1 - Identify the need for establishing a framework** of basic security testing | - Ad hoc security tests with no systematic approach.<br>- Reactive security activities triggered mainly by incidents.<br>- Limited understanding of AI-specific threats. | - No formal security metrics defined or tracked.<br>- Security insights derived primarily from incident response.<br>- Inconsistent or irregular reporting. |

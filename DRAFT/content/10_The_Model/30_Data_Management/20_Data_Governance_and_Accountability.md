@@ -4,20 +4,16 @@ As organizations accelerate their adoption of AI, especially advanced systems su
 
 Modern AI systems not only consume vast datasets but also make autonomous decisions and continuously evolve through feedback loops. This raises complex questions around data ownership, traceability, consent, transparency, and liability, all of which must be addressed through a structured and scalable governance and accountability framework.
 
-
 #### Objectives
 
 The objectives of assessing **Data Governance and Accountability** within AI maturity are to:
 
 1. **Establish Policy Control:** Ensure the organization has formal, enforceable data and AI governance policies, including roles, rules, and standards aligned with enterprise risk posture and regulatory requirements.
-
 2. **Enable Traceability and Oversight:** Provide full lineage and traceability across datasets, models, and decisions, enabling effective auditability and root cause analysis for AI-driven outcomes.
-
 3. **Define Ownership and Stewardship:** Clearly assign data and model ownership across teams, including responsibilities for stewardship, model explainability, bias monitoring, and error handling.
-
 4. **Scale Governance for Modern AI:** Evolve data governance models to accommodate dynamic, unstructured, and third-party data sources as well as continuous learning systems like LLMs and agentic frameworks.
 
-#### Data Governance and Accountability Implementation Maturity Model
+#### Streams
 
 | Maturity Level                                                                                      | Stream A - Data Governance (Policies, Standards, Stewardship)                                                                                                                                                                                                                                                                                                                         | Stream B - Accountability (Ownership, Traceability, Responsible AI)                                                                                                                                                                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
