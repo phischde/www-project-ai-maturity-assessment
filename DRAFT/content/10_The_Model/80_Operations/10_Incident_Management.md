@@ -10,7 +10,6 @@ Incident Management within AI systems is essential for promptly addressing secur
 * **Continuous Improvement:** Use insights from incidents to enhance security protocols and improve response strategies.
 
 #### Streams
-# AI Incident Response & Continuous Improvement Maturity Model
 
 | Maturity Level | Stream A – Incident Response and Analysis            | Stream B – Continuous Improvement and Reporting           |
 |----------------|------------------------------------------------------|------------------------------------------------------------|

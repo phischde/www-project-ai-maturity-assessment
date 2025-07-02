@@ -2,7 +2,6 @@
 
 Effective defect management in AI systems demands more than traditional bug tracking. It must extend to monitoring for ethical failures (e.g., biased outputs), reliability issues (e.g., hallucinations), and security vulnerabilities (e.g., model inversion attacks). Additionally, organizations should aim for proactive identification of emerging risks through user feedback, anomaly detection, and adaptive testing strategies that evolve alongside the deployed AI solutions.
 
-
 #### Objectives
 
 - Create systematic approaches to identify, categorize, and track AI-specific defects and failure modes across the entire model lifecycle.
@@ -15,7 +14,7 @@ Effective defect management in AI systems demands more than traditional bug trac
 
 - Establish closed-loop systems that learn from defects and automatically enhance model performance and quality processes.
 
-
+#### Streams
 
 | Maturity Level | Stream A – Process-Oriented *(Create and Promote)* | Stream B – Technical Controls *(Measure and Improve)* |
 |----------------|-----------------------------------------------------|--------------------------------------------------------|

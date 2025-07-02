@@ -3,11 +3,14 @@
 User Control and Transparency are essential pillars of responsible AI and digital product design. They ensure users understand how their data is used and have meaningful agency over that use. This maturity model guides organizations in progressing from minimal disclosure to embedded, proactive transparency and user empowerment. It emphasizes both governance structures and practical implementation in design and engineering workflows. The goal is to build trust, comply with regulatory expectations, and respect user autonomy across the product lifecycle.
 
 #### Objectives
+
 1. Provide users with clear, accessible, and timely information about how their data and AI-powered features operate.
 2. Enable meaningful user control over data use, personalization, consent, and algorithmic decisions.
 3. Establish governance policies that define standards for disclosure, consent, and user engagement.
 4. Equip product and engineering teams with design patterns, APIs, and UI components to support transparency and control.
 5. Continuously evaluate and improve user-facing transparency mechanisms through metrics and user feedback.
+
+#### Streams
 
 | **Maturity Level** | **Governance & Implementation** | **Design & Engineering Enablement** |
 |--------------------|----------------------------------|-------------------------------------|

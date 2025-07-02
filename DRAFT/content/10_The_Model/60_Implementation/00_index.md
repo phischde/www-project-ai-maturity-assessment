@@ -12,4 +12,3 @@ The Implementation pillar is organized into three interconnected practices that 
 
 By adopting these practices, organizations can proactively mitigate risks related to model misuse, bias, adversarial manipulation, and data leakage. In doing so, they not only achieve compliance with evolving legal and ethical standards but also build durable trust with users, partners, and regulators across diverse application domains.
 
-> NOTE: Where do we put things from the GenAI Top 10 for LLM Apps ? What about Human-in-the-Loop?   

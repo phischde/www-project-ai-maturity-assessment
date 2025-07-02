@@ -7,7 +7,7 @@ The **Education & Guidance** practice ensures that everyone who influences an AI
 - **Provide Role-Specific Training and Resources** that are actionable, current, and aligned with policy and risk priorities.  
 - **Measure Learning Effectiveness and Continuously Improve** curricula, guidance, and tooling based on feedback and emerging challenges.  
 
-#### Governance – Education and Guidance  
+#### Streams
 
 | Maturity Level | Stream A – Develop & Deliver Knowledge | Stream B – Evaluate & Sustain Competence |
 |----------------|----------------------------------------|-----------------------------------------|

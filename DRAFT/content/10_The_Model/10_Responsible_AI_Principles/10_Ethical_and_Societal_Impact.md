@@ -3,17 +3,17 @@ Ethical values are fundamental in the design, development and implementation of 
 Addressing these issues involves proactively identifying and mitigating potential negative impacts to human beings and the environment. By incorporating ethical considerations into AI practices, organizations can build stakeholder trust, comply with regulatory requirements, and contribute positively to the communities and world in which we live.
 
 
-**Objectives of Ethical Values and Societal Impact in AI Systems:**
+#### Objectives
 
-1) Promote Human-Centric: AI must be conceived, designed, developed and used as a tool to serve the human being.​
-2) Support Human Well-Being: AI's ultimate goal is the improvement of Human well-being.​
-3) Safeguard Fundamental Rights: AI must always respect, protect and promote the rights of the human being, as a person and as a community.
-4) Ensure Rule of Law: AI must always comply with existing and applicable laws and regulations​.
-5) Secure Environmental Protection: AI must promote environmental sustainability and the well-being of ecosystems throughout their life cycle.​
-6) Encourage Stakeholder Engagement: Involve diverse stakeholders in the design, development and evaluation of AI systems to reflect a broad range of perspectives and values.
+1. Promote Human-Centric: AI must be conceived, designed, developed and used as a tool to serve the human being.
+2. Support Human Well-Being: AI's ultimate goal is the improvement of Human well-being.
+3. Safeguard Fundamental Rights: AI must always respect, protect and promote the rights of the human being, as a person and as a community.
+4. Ensure Rule of Law: AI must always comply with existing and applicable laws and regulations.
+5. Secure Environmental Protection: AI must promote environmental sustainability and the well-being of ecosystems throughout their life cycle.
+6. Encourage Stakeholder Engagement: Involve diverse stakeholders in the design, development and evaluation of AI systems to reflect a broad range of perspectives and values.
 
 
-#### Ethical Values and Societal Impact
+#### Streams
 
 | Maturity Level                                                                                          | Stream A - Create and Promote                                                                                                                                                                                                                                                                                                        | Stream B - Measure and Improve                                                                                                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

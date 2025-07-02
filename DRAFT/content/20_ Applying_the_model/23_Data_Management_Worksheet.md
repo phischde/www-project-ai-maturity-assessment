@@ -2,7 +2,7 @@
 
 Below is a sample **Data Management domain assessment worksheet** for AIMA. It is organized by practice (Data Quality & Integrity, Data Governance & Accountability, Data Training) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
 
-### Data Quality & Integrity – Ensuring AI data is accurate, reliable, and consistent.
+#### Data Quality & Integrity – Ensuring AI data is accurate, reliable, and consistent.
 
 | Maturity Level | Stream A: Quality Assurance Procedures                                                       | Stream B: Data Integrity Controls                                                      |
 | -------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -10,7 +10,7 @@ Below is a sample **Data Management domain assessment worksheet** for AIMA. It i
 | Level 2        | Are formalized data quality procedures defined and regularly executed?                       | Are consistent data integrity controls systematically applied and reviewed?            |
 | Level 3        | Is data quality management embedded throughout the data lifecycle and continuously improved? | Are advanced integrity controls proactively monitored and refined across all datasets? |
 
-### Data Governance & Accountability – Managing data responsibly and transparently.
+#### Data Governance & Accountability – Managing data responsibly and transparently.
 
 | Maturity Level | Stream A: Data Governance Structures                                                                               | Stream B: Accountability and Compliance Monitoring                                      |
 | -------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
@@ -18,7 +18,7 @@ Below is a sample **Data Management domain assessment worksheet** for AIMA. It i
 | Level 2        | Are formal governance structures and responsibilities clearly defined and communicated?                            | Are accountability and compliance regularly reviewed through structured assessments?    |
 | Level 3        | Is data governance systematically integrated into organizational operations, continuously reviewed, and optimized? | Is comprehensive accountability proactively managed, regularly audited, and documented? |
 
-### Data Training – Managing and Monitoring AI training datasets.
+#### Data Training – Managing and Monitoring AI training datasets.
 
 | Maturity Level | Stream A: Dataset Management (Accuracy, Consistency, Curation)                           | Stream B: Monitoring & Compliance (Security, Licensing, Ethical Use)                                                 |
 | -------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |

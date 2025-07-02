@@ -1,16 +1,16 @@
 ### Transparency and Explainability
-Transparency and explainability are essential components of trustworthy AI systems. Transparency involves openly sharing information about how AI systems operate, including their design, data sources, and decision-making processes. Explainability focuses on providing clear and understandable reasons for AI decisions, enabling stakeholders to comprehend, trust, and effectively interact with these systems. Together, they ensure that AI systems are not "black boxes" but are instead accountable and aligned with ethical standards. This is particularly crucial in high-stakes domains like healthcare, finance, and criminal justice, where decisions can have significant impacts on individuals' lives. By fostering transparency and explainability, organizations can build user trust, facilitate compliance with regulations, and enable meaningful oversight and governance of AI technologies.​
+Transparency and explainability are essential components of trustworthy AI systems. Transparency involves openly sharing information about how AI systems operate, including their design, data sources, and decision-making processes. Explainability focuses on providing clear and understandable reasons for AI decisions, enabling stakeholders to comprehend, trust, and effectively interact with these systems. Together, they ensure that AI systems are not "black boxes" but are instead accountable and aligned with ethical standards. This is particularly crucial in high-stakes domains like healthcare, finance, and criminal justice, where decisions can have significant impacts on individuals' lives. By fostering transparency and explainability, organizations can build user trust, facilitate compliance with regulations, and enable meaningful oversight and governance of AI technologies.
 
-**Objectives of Transparency & Explainability in AI Systems:**
+#### Objectives
 
-1) Enhance Trust and Accountability: Ensure that stakeholders can understand and trust AI decisions, fostering confidence in AI systems.​
-2) Facilitate Regulatory Compliance: Meet legal and ethical standards by providing clear explanations for AI-driven outcomes.​
-3) Enable Effective Oversight: Allow for monitoring and auditing of AI systems to detect and correct errors or biases.​
-4) Improve User Engagement: Empower users to make informed decisions by understanding how AI systems arrive at specific outcomes.​
-5) Support Continuous Improvement: Use insights from explanations to refine AI models and processes, enhancing performance and fairness over time.​
+1. Enhance Trust and Accountability: Ensure that stakeholders can understand and trust AI decisions, fostering confidence in AI systems.
+2. Facilitate Regulatory Compliance: Meet legal and ethical standards by providing clear explanations for AI-driven outcomes.
+3. Enable Effective Oversight: Allow for monitoring and auditing of AI systems to detect and correct errors or biases.
+4. Improve User Engagement: Empower users to make informed decisions by understanding how AI systems arrive at specific outcomes.
+5. Support Continuous Improvement: Use insights from explanations to refine AI models and processes, enhancing performance and fairness over time.
 
 
-#### Transparency and Explainability
+#### Streams
 
 | Maturity Level                                                                                            | Stream A - Create and Promote                                                                                                                                                                                                                                                                                                        | Stream B - Measure and Improve                                                                                                                                                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

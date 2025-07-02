@@ -8,7 +8,7 @@ The Strategy & Metrics practice sits at the foundation of AI-security governance
 - Define and Track AI Security Metrics that guide improvements and demonstrate value.
 - Ensure Continuous Improvement of AI security practices through iterative reviews.
 
-#### Strategy and Metrics
+#### Streams
 
 | Maturity Level | Stream A - Create and Promote | Stream B - Measure and Improve |
 |----------------|-------------------------------|-------------------------------|

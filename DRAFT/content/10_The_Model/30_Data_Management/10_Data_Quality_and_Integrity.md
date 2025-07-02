@@ -10,12 +10,10 @@ Definitions:
 #### Objectives
 
 1. Establish Data Fitness for Advanced AI Systems: Ensure organizational data assets meet the stringent requirements for training, fine-tuning, and operating LLMs and agentic AI systems, including breadth, depth, freshness, and minimal noise or bias.
-
 2. Enable Scalable and Trustworthy AI Deployment: Create a consistent foundation where AI models, including autonomous agents, can safely consume, reason over, and act upon data without human intervention compromising operational integrity.
-
 3. Identify and Prioritize Risk Areas: Detect gaps in data sourcing, governance, and lifecycle management that could expose AI systems to risks such as model drift, data poisoning, decision errors, or compliance failures.
 
-#### Data Quality and Integrity Implementation Maturity Model
+#### Streams
 
 | Maturity Level                                                                                                                                           | Stream A - Fitness for AI Use                                                                                                                                                                                                                                                                                                                                               | Stream B - Trust & Consistency                                                                                                                                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

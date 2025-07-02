@@ -1,9 +1,9 @@
 ## Governance Assessment Worksheet for AIMA
 
-Below is a sample **Governance domain assessment worksheet** for AIMA, modeled after the OWASP SAMM Governance worksheet. It is organized by practice (Strategy & Metrics, Policy & Compliance, Education & Awareness) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
+Below is a sample **Governance domain assessment worksheet** for AIMA, modeled after the OWASP SAMM Governance worksheet. It is organized by practice (Strategy & Metrics, Policy & Compliance, Education & Awareness) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
 
 
-### Strategy & Metrics– Aligning AI initiatives with business strategy and measuring AI program effectiveness.
+#### Strategy & Metrics– Aligning AI initiatives with business strategy and measuring AI program effectiveness.
 
 | Maturity Level | Stream A: Strategy Alignment                                                                               | Stream B: Metric Management                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -12,7 +12,7 @@ Below is a sample **Governance domain assessment worksheet** for AIMA, modeled a
 | Level 3        | Is the AI strategy integrated into the organization's broader business strategy and continuously improved? | Are metrics systematically analyzed to drive improvements and decision-making processes? |
 
 
-### Policy and Compliance – Establishing AI policies and meeting legal/ethical requirements.
+#### Policy and Compliance – Establishing AI policies and meeting legal/ethical requirements.
 
 | Maturity Level | Stream A: Policy Development                                                                                                                           | Stream B: Compliance Management                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ Below is a sample **Governance domain assessment worksheet** for AIMA, modeled a
 | Level 3        | Is the AI policy consistently enforced and reviewed regularly for relevance, accuracy, and alignment with organizational goals and external standards? | Is compliance management systematically integrated into daily operations, with proactive management of compliance risks and regular audits? |
 
 
-### Education and Awareness – Training and guiding personnel on secure and ethical AI.
+#### Education and Awareness – Training and guiding personnel on secure and ethical AI.
 
 | Maturity Level | Stream A: AI Security Training                                                                                                     | Stream B: Awareness and Communication                                                                                                            |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -30,5 +30,5 @@ Below is a sample **Governance domain assessment worksheet** for AIMA, modeled a
 | Level 3        | Are AI security training programs regularly updated, mandatory, and effectively tailored for different roles and responsibilities? | Is there an established culture of proactive communication, continuous awareness, and engagement around AI security throughout the organization? |
 
 
-Each section above corresponds to one of the Governance practices in AIMA. An assessor would review each question with stakeholders, mark Yes/No, and then determine the maturity level achieved. For instance, if **Strategy & Metrics** has all Level 1 and Level 2 questions answered “Yes,” but not all of Level 3, the score would be **Level 2+** for that practice. This worksheet format ensures a **structured yet flexible** assessment: it captures granular practices through yes/no checklists while mirroring the SAMM style that stakeholders may already be familiar with, now applied to the domain of AI.
+Each section above corresponds to one of the Governance practices in AIMA. An assessor would review each question with stakeholders, mark Yes/No, and then determine the maturity level achieved. For instance, if **Strategy & Metrics** has all Level 1 and Level 2 questions answered “Yes,” but not all of Level 3, the score would be **Level 2+** for that practice. This worksheet format ensures a **structured yet flexible** assessment: it captures granular practices through yes/no checklists while mirroring the SAMM style that stakeholders may already be familiar with, now applied to the domain of AI.
 

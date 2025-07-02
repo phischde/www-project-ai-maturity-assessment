@@ -2,7 +2,7 @@
 
 Below is a sample **Design domain assessment worksheet** for AIMA. It is organized by practice (Threat Assessment, Security Architecture, Security Requirements) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
 
-### Threat Assessment – Identifying and managing security threats specific to AI systems.
+#### Threat Assessment – Identifying and managing security threats specific to AI systems.
 
 | Maturity Level | Stream A: Threat Identification                                                               | Stream B: Threat Mitigation                                                                 |
 | -------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -10,7 +10,7 @@ Below is a sample **Design domain assessment worksheet** for AIMA. It is organiz
 | Level 2        | Are threats systematically identified and documented for AI systems?                          | Are documented mitigation strategies developed and periodically reviewed?                   |
 | Level 3        | Is comprehensive threat assessment consistently performed and integrated across AI lifecycle? | Are proactive and comprehensive mitigation strategies continuously implemented and refined? |
 
-### Security Architecture – Designing secure AI system architectures.
+#### Security Architecture – Designing secure AI system architectures.
 
 | Maturity Level | Stream A: Secure Model Deployment                                                       | Stream B: Architectural Compliance                                                   |
 | -------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
@@ -18,7 +18,7 @@ Below is a sample **Design domain assessment worksheet** for AIMA. It is organiz
 | Level 2        | Are formal procedures established for secure AI model deployment?                       | Are regular architectural compliance reviews systematically conducted?               |
 | Level 3        | Is secure deployment consistently enforced, continuously refined, and fully integrated? | Is comprehensive architectural compliance proactively managed and regularly audited? |
 
-### Security Requirements – Defining clear and actionable security criteria for AI systems.
+#### Security Requirements – Defining clear and actionable security criteria for AI systems.
 
 | Maturity Level | Stream A: Requirements Definition                                                              | Stream B: Requirements Verification                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |

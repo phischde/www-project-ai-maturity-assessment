@@ -4,23 +4,17 @@ High-quality training data is the backbone of effective AI systems. As organizat
 
 As AI systems become more autonomous, training data pipelines must evolve to support continuous improvement, integrating feedback loops, surfacing blind spots, and retraining models safely and responsibly.
 
-
-
 #### Objectives
 
 The objectives of assessing **Data Training** within an AI maturity model are to:
 
 1. **Ensure Fitness for Purpose:** Validate that training data is accurate, representative, labeled appropriately, and aligned with the use case and model type (e.g., LLMs, multi-agent systems).
-
 2. **Mitigate Risk and Bias:** Monitor training data for bias, drift, imbalances, or toxic content, reducing the risk of unintended or unethical AI behavior.
-
 3. **Enable Secure and Ethical Use:** Ensure all datasets comply with privacy laws, licensing terms, and internal ethical AI standards, especially when using third-party or user-sourced data.
-
 4. **Support Continuous Improvement:** Establish feedback loops to evolve datasets based on real-world performance, model errors, and evolving domain needs.
-
 5. **Maintain Transparency and Auditability:** Enable clear traceability of data origins, transformations, and usage throughout the training pipeline to support audits and regulatory inquiries.
 
-#### Data Training Implementation Maturity Model
+#### Streams
 
 | Maturity Level                                                                                            | Stream A - Dataset Management (Accuracy, Consistency, Curation)                                                                                                                                                                                                                                                                                                                                                                   | Stream B - Monitoring & Compliance (Security, Licensing, Ethical Use)                                                                                                                                                                                                                                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

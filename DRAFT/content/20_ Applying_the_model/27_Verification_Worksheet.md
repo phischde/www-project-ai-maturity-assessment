@@ -2,7 +2,7 @@
 
 Below is a sample **Verification domain assessment worksheet** for AIMA. It is organized by practice (Security Testing, Requirement-Based Testing, Architecture Assessment) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
 
-### Security Testing – Validating AI systems through systematic security testing.
+#### Security Testing – Validating AI systems through systematic security testing.
 
 | Maturity Level | Stream A: Conduct Security Assessments                                                               | Stream B: Measure and Improve Security                                                           |
 | -------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
@@ -10,7 +10,7 @@ Below is a sample **Verification domain assessment worksheet** for AIMA. It is o
 | Level 2        | Is there a systematic approach documented for conducting regular security assessments on AI systems? | Are security practices measured consistently, with improvements periodically implemented?        |
 | Level 3        | Are security assessments fully integrated, regularly performed, and continuously improved?           | Are security metrics comprehensively used to drive continuous improvement and regularly audited? |
 
-### Requirement-Based Testing – Ensuring AI systems meet defined functional and security requirements.
+#### Requirement-Based Testing – Ensuring AI systems meet defined functional and security requirements.
 
 | Maturity Level | Stream A: Define and Execute Testing                                                         | Stream B: Measure and Improve Testing                                                   |
 | -------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
@@ -18,7 +18,7 @@ Below is a sample **Verification domain assessment worksheet** for AIMA. It is o
 | Level 2        | Is there a systematic, documented approach for requirement-based testing regularly applied?  | Is the effectiveness of requirements verification regularly measured and improved?      |
 | Level 3        | Is requirement-based testing fully integrated, regularly executed, and continuously refined? | Is requirements verification proactively validated, improved, and consistently audited? |
 
-### Architecture Assessment – Assessing AI system architectures for security and compliance.
+#### Architecture Assessment – Assessing AI system architectures for security and compliance.
 
 | Maturity Level | Stream A: Conduct Architecture Reviews                                                     | Stream B: Measure and Improve Architecture                                                        |
 | -------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |

@@ -4,7 +4,6 @@ Secure deployment of AI requires organizations to recognize that models do not b
 
 #### Objectives
 
-
 - **Establish clear documentation and traceability** for AI model configurations, environments, and runtime dependencies to support operational visibility.
 
 - **Implement structured approval workflows and rollback procedures** to ensure safe, auditable, and accountable AI deployments.
@@ -15,7 +14,7 @@ Secure deployment of AI requires organizations to recognize that models do not b
 
 - **Enhance resilience and reliability** by detecting model drift, monitoring for hallucinations, and triggering real-time alerts during high-risk behavior.
 
-
+#### Streams
 
 | **Maturity Level & Description** | **Stream A – Process-Oriented** | **Stream B – Technical Controls** |
 |----------------------------------|----------------------------------|------------------------------------|

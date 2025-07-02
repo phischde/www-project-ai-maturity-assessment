@@ -8,6 +8,7 @@ The AIMA Requirement-based Testing practice ensures AI systems consistently alig
 - Maintain clear traceability between requirements and testing activities.
 - Continuously improve based on requirement-driven insights.
 
+#### Streams
 | Maturity Level | Stream A - Define and Execute Testing | Stream B - Measure and Improve Testing |
 |----------------|--------------------------------------|---------------------------------------|
 | **1 - Foundational Testing Practices Emerging** with siloed practices | - Testing is informal or inconsistently linked to requirements.<br>- Requirement traceability is limited or non-existent.<br>- Testing often reactive rather than planned. | - Minimal or no metrics related to requirement testing.<br>- Testing results documented irregularly.<br>- Limited stakeholder visibility into testing outcomes. |

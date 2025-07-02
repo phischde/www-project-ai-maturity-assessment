@@ -1,8 +1,10 @@
 ### Secure Build
 
 #### Objectives
+
 Establish secure integration of AI/LLM components by promoting responsible sourcing, secure coding, resilient design, and defensible supply chain choices.
 
+#### Streams
 
 | **Maturity Level & Description** | **Stream A – Process-Oriented** | **Stream B – Technical Controls** |
 |----------------------------------|----------------------------------|------------------------------------|
