@@ -45,6 +45,18 @@ Sustainability:
 * Promote environmentally responsible practices in the development and deployment of AI, such as optimizing energy use in training and inference.
 * Evaluate the long-term impact of AI models and systems on resources and the environment.
 
+AI System Development and Testing:
+
+* Apply secure and ethical software development practices to model design.
+* Validate model performance across functional, ethical, and compliance criteria.
+* Conduct rigorous pre-deployment testing, including regression, edge-case, and fairness testing.
+
+Data Management and Governance
+
+* Ensure high data quality, lineage tracking, and documentation across the AI lifecycle.
+* Establish standards for data labeling, versioning, access control, and retention.
+* Govern data ingestion, storage, transformation, and sharing under unified policies.
+
 Monitoring and Lifecycle Management:
 
 * Implement continuous monitoring for AI system performance, reliability, and compliance with predefined criteria.
