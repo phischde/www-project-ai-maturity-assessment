@@ -17,8 +17,6 @@ Secure deployment of AI requires organizations to recognize that models do not b
 
 
 
-## 🚀 AI Deployment Governance Maturity Levels
-
 | **Maturity Level & Description** | **Stream A – Process-Oriented** | **Stream B – Technical Controls** |
 |----------------------------------|----------------------------------|------------------------------------|
 | **Level 1 – Foundational Deployment Practices** with focus on basic documentation and monitoring. | **Environment Capture:** Document deployment configurations and runtime environments. <br> **Dependency Logging:** Record libraries, dependencies, and versions. <br> **Manual Tracking:** Maintain basic records without automation. | **Basic Monitoring:** Track model performance over time. <br> **I/O Logging:** Log inputs and outputs for traceability. <br> **Usage Metrics:** Collect simple metrics (e.g., invocation count, latency). |
