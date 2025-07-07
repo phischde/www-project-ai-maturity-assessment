@@ -4,9 +4,9 @@ The Strategy & Metrics practice sits at the foundation of AI-security governance
 
 #### Objectives
 
-- Align AI Security Strategy with organizational business goals and risk management.
-- Define and Track AI Security Metrics that guide improvements and demonstrate value.
-- Ensure Continuous Improvement of AI security practices through iterative reviews.
+1. **Strategic Alignment**: Align AI Security Strategy with organizational business goals and risk management.
+2. **Metrics and Value Tracking**: Define and Track AI Security Metrics that guide improvements and demonstrate value.
+3. **Continuous Improvement**: Ensure Continuous Improvement of AI security practices through iterative reviews.
 
 #### Streams
 

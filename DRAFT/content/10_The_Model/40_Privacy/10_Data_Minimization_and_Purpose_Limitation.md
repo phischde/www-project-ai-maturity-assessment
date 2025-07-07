@@ -4,9 +4,9 @@ The Privacy practice addresses the critical need to safeguard personal and sensi
 
 #### Objectives
 
-* Ensure data minimization by collecting and processing only necessary data.
-* Limit data use strictly to clearly defined and communicated purposes.
-* Embed privacy measures proactively throughout the AI lifecycle.
+1. **Data Minimization**: Ensure data minimization by collecting and processing only necessary data.
+2. **Purpose Limitation**: Limit data use strictly to clearly defined and communicated purposes.
+3. **Proactive Privacy**: Embed privacy measures proactively throughout the AI lifecycle.
 
 #### Streams
 

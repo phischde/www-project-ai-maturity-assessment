@@ -4,11 +4,11 @@ Fairness and bias practices make sure everyone involved in AI work - designers, 
 
 #### Objectives
 
-1. Raise Organization-Wide Fairness Awareness--Ensure that developers, data scientists, product managers, executives, and procurement teams understand common bias sources (data imbalance, label bias, proxy variables) and the business, legal, and reputational risks they pose.
-2. Define Role-Specific Fairness Requirements--Document clear fairness criteria for each role: data stewards must perform representativeness checks; modelers must run statistical parity and equalized odds tests; product owners must evaluate user-impact scenarios and disparate outcomes.
-3. Embed Standardized Assessment Toolkits--Roll out open-source frameworks and explainability libraries into CI/CD pipelines to automate bias detection and reporting at key development milestones.
-4. Establish Fairness Governance Forums--Convene cross-functional councils—including legal, ethics, UX, and impacted community representatives—to review high-risk models, adjudicate trade-offs, and approve remediation plans before production deployment .
-5. Measure & Iterate on Fairness Outcomes--Track fairness KPIs (e.g., demographic parity difference, false positive/negative rate gaps) through dashboards; conduct regular bias audits and red-teaming exercises to surface emergent issues, then refine policies, training, and tooling accordingly 
+1. **Raise Organization-Wide Fairness Awareness**: Ensure that developers, data scientists, product managers, executives, and procurement teams understand common bias sources (data imbalance, label bias, proxy variables) and the business, legal, and reputational risks they pose.
+2. **Define Role-Specific Fairness Requirements**: Document clear fairness criteria for each role: data stewards must perform representativeness checks; modelers must run statistical parity and equalized odds tests; product owners must evaluate user-impact scenarios and disparate outcomes.
+3. **Embed Standardized Assessment Toolkits**: Roll out open-source frameworks and explainability libraries into CI/CD pipelines to automate bias detection and reporting at key development milestones.
+4. **Establish Fairness Governance Forums**: Convene cross-functional councils—including legal, ethics, UX, and impacted community representatives—to review high-risk models, adjudicate trade-offs, and approve remediation plans before production deployment .
+5. **Measure & Iterate on Fairness Outcomes**: Track fairness KPIs (e.g., demographic parity difference, false positive/negative rate gaps) through dashboards; conduct regular bias audits and red-teaming exercises to surface emergent issues, then refine policies, training, and tooling accordingly 
 
 #### Streams
 

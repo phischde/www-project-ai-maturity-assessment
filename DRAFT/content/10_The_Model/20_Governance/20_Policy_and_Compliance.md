@@ -4,9 +4,9 @@ The **Policy & Compliance** practice translates high-level AI-security and Respo
 
 #### Objectives  
 
-- **Define and Maintain AI-Specific Policies & Standards** that cover security, privacy, ethics, and quality across the AI lifecycle.  
-- **Ensure and Demonstrate Compliance** with applicable laws, regulations, and internal governance requirements.  
-- **Drive Continuous Policy Improvement** through regular reviews, monitoring, and automation of enforcement and assurance activities.  
+1. **Define and Maintain AI-Specific Policies & Standards** that cover security, privacy, ethics, and quality across the AI lifecycle.  
+2. **Ensure and Demonstrate Compliance** with applicable laws, regulations, and internal governance requirements.  
+3.  **Drive Continuous Policy Improvement** through regular reviews, monitoring, and automation of enforcement and assurance activities.  
 
 #### Streams
 

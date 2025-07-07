@@ -4,11 +4,12 @@ User Control and Transparency are essential pillars of responsible AI and digita
 
 #### Objectives
 
-1. Provide users with clear, accessible, and timely information about how their data and AI-powered features operate.
-2. Enable meaningful user control over data use, personalization, consent, and algorithmic decisions.
-3. Establish governance policies that define standards for disclosure, consent, and user engagement.
-4. Equip product and engineering teams with design patterns, APIs, and UI components to support transparency and control.
-5. Continuously evaluate and improve user-facing transparency mechanisms through metrics and user feedback.
+1. **User Information Transparency**: Provide users with clear, accessible, and timely information about how their data and AI-powered features operate.
+2. **User Control and Consent**: Enable meaningful user control over data use, personalization, consent, and algorithmic decisions.
+3. **Governance for User Engagement**: Establish governance policies that define standards for disclosure, consent, and user engagement.
+4. **Design Enablement for Transparency**: Equip product and engineering teams with design patterns, APIs, and UI components to support transparency and control.
+5. **Feedback-Driven Improvement**: Continuously evaluate and improve user-facing transparency mechanisms through metrics and user feedback.
+
 
 #### Streams
 

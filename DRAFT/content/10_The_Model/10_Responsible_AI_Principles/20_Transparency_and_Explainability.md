@@ -3,11 +3,11 @@ Transparency and explainability are essential components of trustworthy AI syste
 
 #### Objectives
 
-1. Enhance Trust and Accountability: Ensure that stakeholders can understand and trust AI decisions, fostering confidence in AI systems.
-2. Facilitate Regulatory Compliance: Meet legal and ethical standards by providing clear explanations for AI-driven outcomes.
-3. Enable Effective Oversight: Allow for monitoring and auditing of AI systems to detect and correct errors or biases.
-4. Improve User Engagement: Empower users to make informed decisions by understanding how AI systems arrive at specific outcomes.
-5. Support Continuous Improvement: Use insights from explanations to refine AI models and processes, enhancing performance and fairness over time.
+1. **Enhance Trust and Accountability**: Ensure that stakeholders can understand and trust AI decisions, fostering confidence in AI systems.
+2. **Facilitate Regulatory Compliance**: Meet legal and ethical standards by providing clear explanations for AI-driven outcomes.
+3. **Enable Effective Oversight**: Allow for monitoring and auditing of AI systems to detect and correct errors or biases.
+4. **Improve User Engagement**: Empower users to make informed decisions by understanding how AI systems arrive at specific outcomes.
+5. **Support Continuous Improvement**: Use insights from explanations to refine AI models and processes, enhancing performance and fairness over time.
 
 
 #### Streams

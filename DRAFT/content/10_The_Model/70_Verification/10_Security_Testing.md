@@ -4,9 +4,10 @@ The AIMA Security Testing practice is essential for proactively identifying and 
 
 #### Objectives
 
-- Identify vulnerabilities through targeted adversarial testing.
-- Ensure resilience against model poisoning and robustness failures.
-- Foster continuous improvement in AI security practices based on security insights.
+1. **Adversarial Testing**: Identify vulnerabilities through targeted adversarial testing.
+2. **Model Resilience**: Ensure resilience against model poisoning and robustness failures.
+3. **Security-Driven Improvement**: Foster continuous improvement in AI security practices based on security insights.
+
 
 #### Streams
 | Maturity Level | Stream A - Conduct Security Assessments | Stream B - Measure and Improve Security |

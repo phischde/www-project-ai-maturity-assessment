@@ -4,11 +4,11 @@ Operational Management encompasses processes and practices aimed at maintaining 
 
 #### Objective
 
-* **Operational Stability:** Maintain reliable and consistent performance of AI systems.
-* **Security Compliance:** Ensure operations adhere to established security standards and compliance requirements.
-* **Effective Resource Management:** Optimize resource allocation and usage to sustain system performance and efficiency.
-* **Proactive Maintenance:** Implement regular maintenance schedules to prevent operational disruptions and maintain system health.
-* **Adaptability and Scalability:** Manage operations flexibly to accommodate changes, updates, and scalability requirements.
+1. **Operational Stability:** Maintain reliable and consistent performance of AI systems.
+2. **Security Compliance:** Ensure operations adhere to established security standards and compliance requirements.
+3. **Effective Resource Management:** Optimize resource allocation and usage to sustain system performance and efficiency.
+4. **Proactive Maintenance:** Implement regular maintenance schedules to prevent operational disruptions and maintain system health.
+5. **Adaptability and Scalability:** Manage operations flexibly to accommodate changes, updates, and scalability requirements.
 
 #### Streams
 

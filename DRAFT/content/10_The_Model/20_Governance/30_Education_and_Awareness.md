@@ -3,9 +3,9 @@ The **Education & Guidance** practice ensures that everyone who influences an AI
 
 #### Objectives  
 
-- **Raise AI-Security and Responsible-AI Awareness** across all roles that design, build, deploy, or oversee AI.  
-- **Provide Role-Specific Training and Resources** that are actionable, current, and aligned with policy and risk priorities.  
-- **Measure Learning Effectiveness and Continuously Improve** curricula, guidance, and tooling based on feedback and emerging challenges.  
+1. **Raise AI-Security and Responsible-AI Awareness** across all roles that design, build, deploy, or oversee AI.
+2. **Provide Role-Specific Training and Resources** that are actionable, current, and aligned with policy and risk priorities.
+3. **Measure Learning Effectiveness and Continuously Improve** curricula, guidance, and tooling based on feedback and emerging challenges.  
 
 #### Streams
 

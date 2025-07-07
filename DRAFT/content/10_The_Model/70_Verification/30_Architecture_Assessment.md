@@ -4,9 +4,10 @@ The AIMA Architecture Assessment practice ensures AI system architectures consis
 
 #### Objectives
 
-- Regularly validate AI architectures against evolving standards and best practices.
-- Identify and remediate architectural vulnerabilities.
-- Continuously refine AI system architectures based on assessment insights.
+1. **Standards-Based Architecture Validation**: Regularly validate AI architectures against evolving standards and best practices.
+2. **Architectural Vulnerability Remediation**: Identify and remediate architectural vulnerabilities.
+3. **Architecture Refinement through Assessment**: Continuously refine AI system architectures based on assessment insights.
+
 
 #### Streams
 | Maturity Level | Stream A - Conduct Architecture Reviews | Stream B - Measure and Improve Architecture |

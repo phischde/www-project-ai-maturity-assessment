@@ -4,9 +4,10 @@ The AIMA Requirement-based Testing practice ensures AI systems consistently alig
 
 #### Objectives
 
-- Verify compliance with functional, security, and ethical standards.
-- Maintain clear traceability between requirements and testing activities.
-- Continuously improve based on requirement-driven insights.
+1. **Standards Compliance Verification**: Verify compliance with functional, security, and ethical standards.
+2. **Requirements Traceability**: Maintain clear traceability between requirements and testing activities.
+3. **Insight-Driven Improvement**: Continuously improve based on requirement-driven insights.
+
 
 #### Streams
 | Maturity Level | Stream A - Define and Execute Testing | Stream B - Measure and Improve Testing |
