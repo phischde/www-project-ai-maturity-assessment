@@ -22,17 +22,6 @@ Traditional maturity models like CMMI or OWASP SAMM provide proven methods for s
 
 Existing frameworks rarely address these issues comprehensively. Organizations attempting to apply them to AI are often left with policy-level principles and no actionable guidance.
 
-## The OWASP Ecosystem and AI-Specific Resources
-
-AIMA builds on OWASP’s broader commitment to AI security and privacy. Several sister projects provide complementary guidance:
-
-- [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/): A curated list of the most critical security vulnerabilities in LLM-based systems.
-- [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/): Practical advice on building, testing, and procuring secure and privacy-preserving AI systems.
-- [OWASP AI Exchange](https://owaspai.org): A comprehensive, community-driven repository of AI security and governance best practices.
-- [OWASP Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/): A threat taxonomy for ML systems, including adversarial and infrastructure-level attacks.
-
-Together, these resources form the backbone of AIMA’s threat model, scope, and community approach.
-
 ## What AIMA Adds
 
 AIMA bridges the gap between principles and practice. It translates abstract goals such as fairness, robustness, and transparency into measurable activities and outcomes. It supports:
@@ -43,21 +32,14 @@ AIMA bridges the gap between principles and practice. It translates abstract goa
 
 Unlike some proprietary or closed maturity frameworks, AIMA is open-source and community-driven. It invites adaptation and evolution through real-world usage, feedback, and iteration.
 
-## Overview of the AIMA Model
 
-![AIMA model diagram](../AIMA_model.png)
+## The OWASP Ecosystem and AI-Specific Resources
 
-AIMA defines eight assessment domains that span the entire AI system lifecycle:
+AIMA builds on OWASP’s broader commitment to AI security and privacy. Several sister projects provide complementary guidance:
 
-- **Responsible AI Principles**: Fairness, transparency, and societal impact.
-- **Governance**: Strategy, policy, and education.
-- **Data Management**: Quality, accountability, and training data practices.
-- **Privacy**: Data minimization, privacy by design, and user control.
-- **Design**: Threat modeling, security architecture, and requirements.
-- **Implementation**: Secure build, deployment, and defect management.
-- **Verification**: Testing and architecture validation.
-- **Operations**: Monitoring, incident response, and system lifecycle management.
+- [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/): A curated list of the most critical security vulnerabilities in LLM-based systems.
+- [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/): Practical advice on building, testing, and procuring secure and privacy-preserving AI systems.
+- [OWASP AI Exchange](https://owaspai.org): A comprehensive, community-driven repository of AI security and governance best practices.
+- [OWASP Machine Learning Security Top 10](https://owasp.org/www-project-machine-learning-security-top-10/): A threat taxonomy for ML systems, including adversarial and infrastructure-level attacks.
 
-Each domain includes maturity criteria grouped into two complementary streams: _Create & Promote_ (stream A) and _Measure & Improve_ (stream B). Organizations can evaluate their posture, identify gaps, and prioritize improvements in a structured way.
-
-This document provides detailed descriptions, worksheets, and guidance to support practical adoption of AIMA across sectors.
+Together, these resources form the backbone of AIMA’s threat model, scope, and community approach.
