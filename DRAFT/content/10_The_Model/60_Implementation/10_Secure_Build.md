@@ -1,8 +1,10 @@
 ### Secure Build
 
+Secure Build practices form the foundation for trustworthy AI by ensuring that risks are addressed early—during model selection, development, and integration. Unlike traditional software builds, AI systems depend on data quality, third-party model provenance, and probabilistic behaviors that must be explicitly controlled. A secure build process incorporates defensible supply chain decisions, ethical considerations, and reproducible configurations. It mandates that all models—whether pre-trained or custom—are assessed not only for technical performance but also for licensing, robustness, and alignment with intended use. Effective implementation includes integrating automated security scans, adversarial robustness checks, and validation mechanisms into development pipelines. These build-stage controls help prevent the downstream amplification of vulnerabilities, reduce the likelihood of bias propagation, and ensure the AI system remains observable, verifiable, and secure before it is ever deployed.
+
 #### Objectives
 
-Establish secure integration of AI/LLM components by promoting responsible sourcing, secure coding, resilient design, and defensible supply chain choices.
+- Establish secure integration of AI/LLM components by promoting responsible sourcing, secure coding, resilient design, and defensible supply chain choices.
 
 #### Streams
 
@@ -10,4 +12,4 @@ Establish secure integration of AI/LLM components by promoting responsible sourc
 |----------------------------------|----------------------------------|------------------------------------|
 | **Level 1 – Establish awareness** with Governance and controls for foundation framework implementation. | - Model sources selected without standard criteria. <br> - Inventory is informal or outdated. <br> - Purpose and provenance of models are rarely documented. | - License terms and dependencies rarely verified. <br> - Known vulnerabilities not consistently scanned. <br> - No formal toolchain for validation. |
 | **Level 2 – Defined Practices** with security and governance practices are being documented and implemented. | - Secure development guidelines include AI-specific considerations. <br> - Model reviews include basic ethical and compliance checks. <br> - Inventory management is standardized but not automated. | - Input/output sanitization in place. <br> - Models and datasets version-controlled. <br> - Basic output validation initiated. |
-| **Level 3 – Continously Manage Risk** with proactive governance and supply chain-level awareness. | - Formal risk assessments conducted for third-party and internal models. <br> - Custody of AI assets is tracked and managed. <br> - Attestations and compliance documents are requested from providers. | - Adversarial testing is routinely performed. <br> - AI checks are integrated into CI/CD pipelines. <br> - Behavior under edge cases is validated. |
+| **Level 3 – Continuously Manage Risk** with proactive governance and supply chain-level awareness. | - Formal risk assessments conducted for third-party and internal models. <br> - Custody of AI assets is tracked and managed. <br> - Attestations and compliance documents are requested from providers. | - Adversarial testing is routinely performed. <br> - AI checks are integrated into CI/CD pipelines. <br> - Behavior under edge cases is validated. |
