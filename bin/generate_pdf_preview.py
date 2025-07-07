@@ -115,9 +115,19 @@ def generate_pdf(input_dir: Path, output_file: Path):
 <head>
     <meta charset='utf-8'>
     <style>
-        @page {{
+    @page {{
             size: A4;
-            margin: 3cm 2.8cm;
+            margin: 2.5cm 2.5cm 3.5cm 2.5cm;
+            background-size: cover;
+            background: url('background.svg') no-repeat fixed top left;
+        
+            @bottom-right {{
+            content: "Page " counter(page);
+                width: 1.8cm;
+                font-size: 10pt;
+                text-align: center;
+                transform: translate(0, -0.5cm);
+            }}
         }}
 
         body {{
@@ -159,6 +169,11 @@ def generate_pdf(input_dir: Path, output_file: Path):
             letter-spacing: 0.05em;
             line-height: 1.25;
             break-inside: avoid;
+        }}
+        
+        p {{
+           text-align: justify;
+          hyphens: auto;
         }}
 
         p, li, table, blockquote {{
