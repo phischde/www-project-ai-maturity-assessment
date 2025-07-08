@@ -19,6 +19,6 @@ The AI Maturity Assessment (AIMA) project goal is to empower organizations to na
 
 By bridging the gap between high-level AI principles and actionable implementation strategies, AIMA ensures that organizations not only adopt AI systems that align with their strategic objectives but also foster trust and accountability in their AI initiatives.
 
-### Start contributing [CONTENT](https://github.com/OWASP/www-project-ai-maturity-assessment)
+### Start contributing [CONTENT](https://github.com/OWASP/www-project-ai-maturity-assessment/tree/main/DRAFT/content)
 
 
