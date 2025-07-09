@@ -22,8 +22,18 @@ Onward,
 Matteo Meucci & Philippe Schrettenbrunner   
 _Project Co-Leads, OWASP AI Maturity Assessment_
 
+## Authors
 
-## Contributors 
+#### Project Leads
+* Matteo Meucci
+* Philippe Schrettenbrunner
 
-* ...
-* ....
+#### Contributors
+* Arvinda Gangadhararao
+* Sana Zia Hassan
+* Abhinavdutt Singh
+* Marco Denti
+* Andrea Luigi Vitali
+* Hubert Jackowski
+* Keren Katz
+* Montadhar Rekaya
