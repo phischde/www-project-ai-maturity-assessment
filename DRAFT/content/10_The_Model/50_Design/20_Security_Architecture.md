@@ -5,6 +5,8 @@ The **Security Architecture for AI** practice focuses on designing and implement
 #### Objectives
 
 1. **Secure Infrastructure and Monitoring**: Design secure infrastructure for AI deployment and continuous monitoring.
+2. **Realtime threat detection**: Embed secure deployment patterns and monitoring mechanisms to enable real-time threat detection and rapid incident response.
+3. **Secure Workloads**: Ensure infrastructure resilience and integrity by mitigating vulnerabilities and supporting continuous, secure operation of AI workloads.
 
 #### Streams
 
