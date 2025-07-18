@@ -5,6 +5,8 @@ The **Security Requirements** practice ensures that AI systems are designed with
 #### Objectives
 
 1. **Risk-Based Requirement Definition**: Define explicit requirements to address ethical, legal, and technical AI risks.
+2. **Secure by Design**: Integrate security considerations early in the AI system design lifecycle.
+3. **Compliance with regulations**: Ensure compliance with emerging AI regulations and governance standards.
 
 #### Streams
 
