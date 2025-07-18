@@ -5,6 +5,8 @@ The **Threat Assessment** practice addresses unique security, ethical, and opera
 #### Objectives
 
 1. **LLM-Specific Threat Mitigation**: Identify and mitigate threats unique to LLMs (e.g., OWASP Top 10 for LLM).
+2. **Mitigation Strategies**: Align mitigation strategies with organizational values and compliance goals.
+3. **Security Governance**: Integrate threat insights into broader AI governance and oversight processes.
 
 #### Streams
 
