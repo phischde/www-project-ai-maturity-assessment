@@ -1,6 +1,6 @@
 ## Governance Assessment Worksheet
 
-Below is a sample **Governance domain assessment worksheet** for AIMA, modeled after the OWASP SAMM Governance worksheet. It is organized by practice (Strategy & Metrics, Policy & Compliance, Education & Awareness) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
+Below is a sample **Governance domain assessment worksheet**, modeled after the OWASP SAMM Governance worksheet. It is organized by practice (Strategy & Metrics, Policy & Compliance, Education & Awareness) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
 
 
 #### Strategy & Metrics – Aligning AI initiatives with business strategy and measuring AI program effectiveness.

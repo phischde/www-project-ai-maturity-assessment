@@ -1,6 +1,6 @@
 ## Data Management Assessment Worksheet
 
-Below is a sample **Data Management domain assessment worksheet** for AIMA. It is organized by practice (Data Quality & Integrity, Data Governance & Accountability, Data Training) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
+Below is a sample **Data Management domain assessment worksheet**. It is organized by practice (Data Quality & Integrity, Data Governance & Accountability, Data Training) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
 
 #### Data Quality & Integrity – Ensuring AI data is accurate, reliable, and consistent.
 

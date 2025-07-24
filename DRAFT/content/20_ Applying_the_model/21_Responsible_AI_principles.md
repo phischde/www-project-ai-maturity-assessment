@@ -1,6 +1,6 @@
-## Responsible AI Principles Assessment Worksheet
+## Responsible AI Assessment Worksheet
 
-Below is a sample **Responsible AI Principles domain assessment worksheet** for AIMA. It is organized by practice (Fairness & Bias, Transparency & Explainability, Ethical & Societal Impact) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
+Below is a sample **Responsible AI domain assessment worksheet**. It is organized by practice (Ethical Value& Societal Impact, Fairness & Bias, Transparency & Explainability) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
 
 #### Ethical Values and Societal Impact – Assessing and managing broader impacts of AI systems.
 
@@ -9,6 +9,8 @@ Below is a sample **Responsible AI Principles domain assessment worksheet** for 
 | Level 1        | Is there informal awareness of the potential ethical and societal impacts of AI systems?                   | Are ethical considerations occasionally discussed in an informal manner?                                                   |
 | Level 2        | Have formal processes been established to assess AI's ethical and societal impacts?                        | Is there an established framework guiding ethical decision-making for AI systems?                                          |
 | Level 3        | Are impact assessments systematically integrated into all AI projects, continuously reviewed, and updated? | Is ethical decision-making fully embedded in organizational processes, consistently guiding AI development and deployment? |
+
+#### Transparency & Explainability – Providing understandable explanations of AI systems.
 
 | Maturity Level | Stream A: Explainability Mechanisms                                                               | Stream B: Transparency Reporting and Communication                                      |
 |----------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -24,4 +26,3 @@ Below is a sample **Responsible AI Principles domain assessment worksheet** for 
 | Level 2        | Are systematic procedures established to regularly identify and assess biases in AI models?        | Are defined mitigation strategies implemented and periodically reviewed?                     |
 | Level 3        | Is bias assessment integrated systematically across all AI lifecycle stages and audited regularly? | Are proactive mitigation practices continuously monitored and refined across AI deployments? |
 
-#### Transparency & Explainability – Providing understandable explanations of AI systems.

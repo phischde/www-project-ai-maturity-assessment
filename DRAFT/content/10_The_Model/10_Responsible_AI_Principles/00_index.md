@@ -1,6 +1,6 @@
 ## Responsible AI
 
-The **Responsible AI Principles** pillar addresses the distinct ethical and societal implications that arise specifically from artificial intelligence. While traditional software primarily focuses on functionality and security, AI systems introduce unique risks around fairness, transparency, and broader societal impacts. The opacity of AI decision-making processes, the potential for unintended biases in training data, and the wide-ranging effects of AI-driven outcomes on society necessitate dedicated governance.
+The **Responsible AI** pillar addresses the distinct ethical and societal implications that arise specifically from artificial intelligence. While traditional software primarily focuses on functionality and security, AI systems introduce unique risks around fairness, transparency, and broader societal impacts. The opacity of AI decision-making processes, the potential for unintended biases in training data, and the wide-ranging effects of AI-driven outcomes on society necessitate dedicated governance.
 
 To meet these challenges, this pillar focuses on three core practices:
 
