@@ -35,4 +35,4 @@ _Project Co-Leads, OWASP AI Maturity Assessment_
 * Keren Katz
 * Montadhar Rekaya
 
-We also want to thank everyone in the wider OWASP AIMA community — especially those in the Slack channel — who shared feedback, ideas, or encouragement along the way. Your input helped shape this project.
+We also want to thank everyone in the wider OWASP AIMA community, especially those in the Slack channel, who shared feedback, ideas, or encouragement along the way. Your input helped shape this project.
