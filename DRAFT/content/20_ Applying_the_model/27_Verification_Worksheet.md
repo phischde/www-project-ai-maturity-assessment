@@ -1,4 +1,4 @@
-## Verification Assessment Worksheet for AIMA
+## Verification Assessment Worksheet
 
 Below is a sample **Verification domain assessment worksheet** for AIMA. It is organized by practice (Security Testing, Requirement-Based Testing, Architecture Assessment) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
 
