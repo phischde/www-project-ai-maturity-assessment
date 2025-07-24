@@ -1,14 +1,14 @@
-## Verification Assessment Worksheet for AIMA
+## Verification Assessment Worksheet
 
-Below is a sample **Verification domain assessment worksheet** for AIMA. It is organized by practice (Security Testing, Requirement-Based Testing, Architecture Assessment) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
+Below is a sample **Verification domain assessment worksheet**. It is organized by practice (Security Testing, Requirement-Based Testing, Architecture Assessment) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
 
 #### Security Testing – Validating AI systems through systematic security testing.
 
 | Maturity Level | Stream A: Conduct Security Assessments                                                               | Stream B: Measure and Improve Security                                                           |
-| -------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+|----------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Level 1        | Are basic security assessments occasionally conducted informally on AI systems?                      | Is there informal measurement and basic improvement of security practices?                       |
 | Level 2        | Is there a systematic approach documented for conducting regular security assessments on AI systems? | Are security practices measured consistently, with improvements periodically implemented?        |
-| Level 3        | Are security assessments fully integrated, regularly performed, and continuously improved?           | Are security metrics comprehensively used to drive continuous improvement and regularly audited? |
+| Level 3        | Are security assessments fully integrated, regularly performed, and subject to ongoing refinement?   | Are security metrics comprehensively used to drive continuous improvement and regularly audited? |
 
 #### Requirement-Based Testing – Ensuring AI systems meet defined functional and security requirements.
 

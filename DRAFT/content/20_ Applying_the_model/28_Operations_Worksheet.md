@@ -1,6 +1,6 @@
-## Operations Assessment Worksheet for AIMA
+## Operations Assessment Worksheet
 
-Below is a sample **Operations domain assessment worksheet** for AIMA. It is organized by practice (Incident Management, Event Management, Operational Management) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
+Below is a sample **Operations domain assessment worksheet**. It is organized by practice (Incident Management, Event Management, Operational Management) and grouped by maturity level. For each question, an assessor would mark **Yes or No** to indicate whether the organization currently fulfills that criterion. Achieving all “Yes” answers in Level 1 for a given practice indicates maturity Level 1 is attained; all Level 1 and Level 2 “Yes” indicates Level 2, and so on. (Partial “Yes” in the next level would be noted as a “+” as discussed.)
 
 #### Incident Management – Handling and resolving AI system incidents effectively.
 
@@ -12,11 +12,11 @@ Below is a sample **Operations domain assessment worksheet** for AIMA. It is org
 
 #### Event Management – Monitoring and managing AI system events.
 
-| Maturity Level | Stream A: Detection & Alerting                                                 | Stream B:  Response & Continuous Learning                                              |
-| -------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Level 1        | Is there informal or occasional monitoring and detection of events in AI systems?        | Are event responses informally conducted and sporadically documented?                |
-| Level 2        | Are events systematically monitored and consistently detected through defined processes? | Are event responses systematically executed, documented, and regularly reviewed?     |
-| Level 3        | Is event monitoring continuously refined, comprehensively managed, and fully automated?  | Is event response proactively managed, continuously improved, and regularly audited? |
+| Maturity Level | Stream A: Detection & Alerting                                                 | Stream B:  Response & Continuous Learning                                          |
+| -------------- | ---------------------------------------------------------------------------------------- |------------------------------------------------------------------------------------|
+| Level 1        | Is there informal or occasional monitoring and detection of events in AI systems?        | Are event responses informally conducted and sporadically documented?              |
+| Level 2        | Are events systematically monitored and consistently detected through defined processes? | Are event responses systematically executed, documented, and regularly reviewed?   |
+| Level 3        | Is event monitoring continuously refined, comprehensively managed, and fully automated?  | Is event response proactively managed, iteratively refined, and regularly audited? |
 
 #### Operational Management – Ensuring secure and efficient operational management of AI systems.
 
