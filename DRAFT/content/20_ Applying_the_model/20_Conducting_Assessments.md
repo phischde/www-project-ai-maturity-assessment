@@ -1,4 +1,4 @@
-## Conducting AIMA Assessment
+#### Conducting AIMA Assessments
 
 Assessing an organization using AIMA is very similar to the SAMM assessment methodology, but focused on AI systems and practices. By measuring the organization against AIMA’s defined Governance practices, one can create an overall picture of the **AI governance and assurance activities** in place. This helps in understanding the current breadth of responsible AI measures and in planning a roadmap for improvement. As with SAMM, there are two recommended styles for conducting an AIMA assessment:
 
