@@ -12,7 +12,7 @@ This document is intended for CISOs, AI/ML engineers, product leads, auditors an
 
 Version 1.0 introduces eight assessment areas, with detailed criteria and a worksheet for internal use or third-party evaluations. It’s designed to help you spot gaps and manage risk across the entire AI lifecycle.
 
-Of course, a model is only as strong as the community behind it. That’s why we welcome your input—whether through GitHub, pilot testing, or live discussions. Your feedback will shape future versions and help refine the scoring, guidance and coverage.
+Of course, a model is only as strong as the community behind it. That’s why we welcome your input—whether through GitHub Issues, pilot testing, or live discussions. Your feedback will shape future versions and help refine the scoring, guidance and coverage.
 
 We would like to express our deepest gratitude to the OWASP Foundation, the SAMM core team, the early reviewers from academia and industry, and the volunteers who contributed test cases, glossary entries and real-world anecdotes.
 
@@ -24,11 +24,8 @@ _Project Co-Leads, OWASP AI Maturity Assessment_
 
 ## Authors
 
-#### Project Leads
 * Matteo Meucci
 * Philippe Schrettenbrunner
-
-#### Contributors
 * Arvinda Gangadhararao
 * Sana Zia Hassan
 * Abhinavdutt Singh
