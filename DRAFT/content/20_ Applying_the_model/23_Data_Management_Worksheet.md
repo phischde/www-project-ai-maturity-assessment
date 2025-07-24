@@ -20,10 +20,10 @@ Below is a sample **Data Management domain assessment worksheet** for AIMA. It i
 
 #### Data Training – Managing and Monitoring AI training datasets.
 
-| Maturity Level | Stream A: Dataset Management (Accuracy, Consistency, Curation)                           | Stream B: Monitoring & Compliance (Security, Licensing, Ethical Use)                                                 |
-| -------------- | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Level 1        | Is training data gathered informally, with minimal consistency or curation standards?    | Are there minimal or no compliance checks for third-party data usage?                                                |
-| Level 2        | Are standardized processes for dataset collection and labeling formally defined?         | Are compliance and ethical standards regularly reviewed for external datasets?                                       |
-| Level 3        | Is data preparation fully automated, consistently maintained, and continuously improved? | Is monitoring of datasets for security, licensing, and ethical use systematically implemented and regularly audited? |
+| Maturity Level | Stream A: Dataset Management (Accuracy, Consistency, Curation)                                      | Stream B: Monitoring & Compliance (Security, Licensing, Ethical Use)                                                 |
+|----------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Level 1        | Is training data gathered informally, with minimal consistency or curation standards?               | Are there minimal or no compliance checks for third-party data usage?                                                |
+| Level 2        | Are standardized processes for dataset collection and labeling formally defined?                    | Are compliance and ethical standards regularly reviewed for external datasets?                                       |
+| Level 3        | Is data preparation fully automated, consistently maintained, and regularly evaluated and adjusted? | Is monitoring of datasets for security, licensing, and ethical use systematically implemented and regularly audited? |
 
 

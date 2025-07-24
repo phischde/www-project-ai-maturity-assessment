@@ -5,20 +5,20 @@ Below is a sample **Governance domain assessment worksheet** for AIMA, modeled a
 
 #### Strategy & Metrics– Aligning AI initiatives with business strategy and measuring AI program effectiveness.
 
-| Maturity Level | Stream A: Strategy Alignment                                                                               | Stream B: Metric Management                                                              |
-| -------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| Level 1        | Is there an initial AI strategy documented, even informally?                                               | Are there any metrics informally tracked related to AI initiatives?                      |
-| Level 2        | Has the AI strategy been formally defined and communicated to stakeholders?                                | Are defined metrics regularly reviewed and communicated within the organization?         |
-| Level 3        | Is the AI strategy integrated into the organization's broader business strategy and continuously improved? | Are metrics systematically analyzed to drive improvements and decision-making processes? |
+| Maturity Level | Stream A: Strategy Alignment                                                                             | Stream B: Metric Management                                                              |
+| -------------- |----------------------------------------------------------------------------------------------------------| ---------------------------------------------------------------------------------------- |
+| Level 1        | Is there an initial AI strategy documented, even informally?                                             | Are there any metrics informally tracked related to AI initiatives?                      |
+| Level 2        | Has the AI strategy been formally defined and communicated to stakeholders?                              | Are defined metrics regularly reviewed and communicated within the organization?         |
+| Level 3        | Is the AI strategy integrated into the organization's broader business strategy and iteratively refined? | Are metrics systematically analyzed to drive improvements and decision-making processes? |
 
 
 #### Policy and Compliance – Establishing AI policies and meeting legal/ethical requirements.
 
-| Maturity Level | Stream A: Policy Development                                                                                                                           | Stream B: Compliance Management                                                                                                             |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Level 1        | Is there an awareness or initial informal policy for AI usage within the organization?                                                                 | Is there basic awareness of compliance needs relevant to AI (e.g., GDPR, ethical guidelines)?                                               |
-| Level 2        | Has a formal AI policy been established and clearly communicated to all relevant stakeholders?                                                         | Are compliance requirements identified, documented, and regularly reviewed to ensure alignment with AI-specific regulations?                |
-| Level 3        | Is the AI policy consistently enforced and reviewed regularly for relevance, accuracy, and alignment with organizational goals and external standards? | Is compliance management systematically integrated into daily operations, with proactive management of compliance risks and regular audits? |
+| Maturity Level | Stream A: Policy Development                                                                                                                           | Stream B: Compliance Management                                                                                                                     |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Level 1        | Is there an awareness or initial informal policy for AI usage within the organization?                                                                 | Is there basic awareness of compliance needs relevant to AI (e.g., GDPR, ethical guidelines)?                                                       |
+| Level 2        | Has a formal AI policy been established and clearly communicated to all relevant stakeholders?                                                         | Are compliance requirements identified, documented, and regularly reviewed to ensure alignment with AI-specific regulations?                        |
+| Level 3        | Is the AI policy consistently enforced and reviewed regularly for relevance, accuracy, and alignment with organizational goals and external standards? | Is compliance management applied through formal mechanisms into daily operations, with proactive management of compliance risks and regular audits? |
 
 
 #### Education and Awareness – Training and guiding personnel on secure and ethical AI.

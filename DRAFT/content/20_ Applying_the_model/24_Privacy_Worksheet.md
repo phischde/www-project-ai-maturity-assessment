@@ -12,11 +12,11 @@ Below is a sample **Privacy domain assessment worksheet** for AIMA. It is organi
 
 #### Privacy by Design & Default – Integrating privacy considerations throughout AI system development.
 
-| Maturity Level | Stream A: Privacy by Design Procedures                                                        | Stream B: Default Privacy Settings and Controls                                       |
-| -------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Level 1        | Is there initial awareness or informal consideration of privacy aspects during AI design?     | Are default privacy settings informally considered in AI systems?                     |
-| Level 2        | Are formal privacy by design procedures integrated into AI development processes?             | Are default privacy controls systematically implemented and documented?               |
-| Level 3        | Is privacy by design fully embedded and continuously improved across the entire AI lifecycle? | Are comprehensive default privacy settings proactively managed and regularly audited? |
+| Maturity Level | Stream A: Privacy by Design Procedures                                                      | Stream B: Default Privacy Settings and Controls                                       |
+| -------------- |---------------------------------------------------------------------------------------------| ------------------------------------------------------------------------------------- |
+| Level 1        | Is there initial awareness or informal consideration of privacy aspects during AI design?   | Are default privacy settings informally considered in AI systems?                     |
+| Level 2        | Are formal privacy by design procedures integrated into AI development processes?           | Are default privacy controls systematically implemented and documented?               |
+| Level 3        | Is privacy by design fully embedded and iteratively refined across the entire AI lifecycle? | Are comprehensive default privacy settings proactively managed and regularly audited? |
 
 #### User Control & Transparency – Empowering users with clear information and control over their data.
 

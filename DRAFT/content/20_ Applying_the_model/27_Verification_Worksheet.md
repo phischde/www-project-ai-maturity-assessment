@@ -5,10 +5,10 @@ Below is a sample **Verification domain assessment worksheet** for AIMA. It is o
 #### Security Testing – Validating AI systems through systematic security testing.
 
 | Maturity Level | Stream A: Conduct Security Assessments                                                               | Stream B: Measure and Improve Security                                                           |
-| -------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+|----------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Level 1        | Are basic security assessments occasionally conducted informally on AI systems?                      | Is there informal measurement and basic improvement of security practices?                       |
 | Level 2        | Is there a systematic approach documented for conducting regular security assessments on AI systems? | Are security practices measured consistently, with improvements periodically implemented?        |
-| Level 3        | Are security assessments fully integrated, regularly performed, and continuously improved?           | Are security metrics comprehensively used to drive continuous improvement and regularly audited? |
+| Level 3        | Are security assessments fully integrated, regularly performed, and subject to ongoing refinement?   | Are security metrics comprehensively used to drive continuous improvement and regularly audited? |
 
 #### Requirement-Based Testing – Ensuring AI systems meet defined functional and security requirements.
 

@@ -1,6 +1,6 @@
 # Using the AIMA Maturity Levels
 
-The OWASP AI Maturity Assessment (AIMA) model builds on OWASP SAMM’s approach, defining three **maturity levels** for each practice in the 8 Business Functions domains with detailed components. The AIMA Business Functions are described in the chapter above: Responsible AI Principles, Governance, Data Management, Privacy, Desing, Implementation, Verification and Operation.
+The OWASP AI Maturity Assessment (AIMA) model builds on OWASP SAMM’s approach, defining three **maturity levels** for each practice in the 8 Business Functions domains with detailed components. The AIMA Business Functions are described in the chapter above: Responsible AI Principles, Governance, Data Management, Privacy, Design, Implementation, Verification and Operation.
 
 Each Security Practices inside at each of the 8 Business Functions is described in terms of the following components:
 
