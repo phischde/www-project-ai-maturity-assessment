@@ -8,17 +8,32 @@ pitch: OWASP AI Maturity Assessment
 ---
 
 <div align="center">
-  <img src="assets/images/OWASP-AIMA.svg" alt="Alt text">
+  <img src="assets/images/OWASP-AIMA.svg" alt="OWASP AI Maturity Assessment Logo" width="400">
 </div>
 
-With the growing interest and adoption of AI technologies, it's critical to establish a framework that organizations can use to measure and enhance their AI maturity levels.
+The **OWASP AI Maturity Assessment (AIMA)** helps organizations assess, guide, and improve their use of Artificial Intelligence. As AI becomes central to modern software and decision-making, AIMA provides a practical, structured approach for ensuring responsible, secure, and effective AI integration.
 
-In recent months, several AI Maturity Models have emerged, including the MITRE AI Framework, which highlights the need for structured AI assessments. Building on this momentum, we are developing the OWASP AI Maturity Assessment (AIMA), using the Software Assurance Maturity Model (SAMM) as a foundation.
+AIMA supports organizations in evaluating how well their AI systems align with strategic goals, ethical principles, and operational needs. The model spans five core domains: Strategy, Design, Implementation, Operations, and Governance. Each domain includes actionable maturity levels to guide adoption and improvement.
 
-The AI Maturity Assessment (AIMA) project goal is to empower organizations to navigate the complexities of artificial intelligence by providing a structured framework for making informed decisions about acquiring or developing AI systems. As AI continues to revolutionize industries, organizations face critical decisions about integrating these technologies responsibly. AIMA helps them evaluate AI systems' alignment with ethical principles, security standards, and operational goals while mitigating risks and ensuring long-term sustainability.
+Built as a community-driven OWASP project, AIMA draws on established practices in software assurance while addressing the unique challenges posed by AI—such as explainability, data risks, and adversarial threats.
 
-By bridging the gap between high-level AI principles and actionable implementation strategies, AIMA ensures that organizations not only adopt AI systems that align with their strategic objectives but also foster trust and accountability in their AI initiatives.
+---
 
-### Start contributing [CONTENT](https://github.com/OWASP/www-project-ai-maturity-assessment/tree/main/DRAFT/content)
+### Download V1 (PDF + Toolkit)
+
+- [AI Maturity Assessment – Full Documentation (PDF)](https://github.com/OWASP/www-project-ai-maturity-assessment/blob/main/dist/V1/OWASP-AIMA_V1.pdf)
+- [AI Maturity Assessment – Excel Toolkit](https://github.com/OWASP/www-project-ai-maturity-assessment/blob/main/dist/V1/OWASP-AIMA-Toolkit_V1.xlsx)
+
+---
+
+### Get Involved
+
+We welcome contributions and feedback!
+
+- [Give Feedback via GitHub Issues](https://github.com/OWASP/www-project-ai-maturity-assessment/issues)
+- [Explore the raw Source Content](https://github.com/OWASP/www-project-ai-maturity-assessment/tree/main/source)
+- [Join the Discussion on Slack](https://owasp.slack.com/archives/C089K6KFZMG) (self registration via: https://owasp.org/slack/invite)
+
+Whether you're a practitioner, auditor, or policymaker—we'd love to hear how you're using AIMA or where we can improve.
 
 
