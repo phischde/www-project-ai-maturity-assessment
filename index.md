@@ -21,8 +21,8 @@ Built as a community-driven OWASP project, AIMA draws on established practices i
 
 ### Download V1 (PDF + Toolkit)
 
-- [AI Maturity Assessment – Full Documentation (PDF)](https://github.com/OWASP/www-project-ai-maturity-assessment/blob/main/releases/V1/OWASP-AIMA_V1.pdf)
-- [AI Maturity Assessment – Excel Toolkit](https://github.com/OWASP/www-project-ai-maturity-assessment/blob/main/releases/V1/OWASP-AIMA-Toolkit_V1.xlsx)
+- [AI Maturity Assessment – Full Documentation (PDF)](https://raw.githubusercontent.com/OWASP/www-project-ai-maturity-assessment/main/releases/V1/OWASP-AIMA_V1.pdf)
+- [AI Maturity Assessment – Excel Toolkit](https://raw.githubusercontent.com/OWASP/www-project-ai-maturity-assessment/main/releases/V1/OWASP-AIMA-Toolkit_V1.xlsx)
 
 ---
 
