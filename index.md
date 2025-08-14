@@ -31,8 +31,8 @@ Built as a community-driven OWASP project, AIMA draws on established practices i
 We welcome contributions and feedback!
 
 - [Give Feedback via GitHub Issues](https://github.com/OWASP/www-project-ai-maturity-assessment/issues)
-- [Explore the raw Source Content](https://github.com/OWASP/www-project-ai-maturity-assessment/tree/main/source)
-- [Join the Discussion on Slack](https://owasp.slack.com/archives/C089K6KFZMG) (self registration via: https://owasp.org/slack/invite)
+- [Explore the raw Source Content](https://github.com/OWASP/www-project-ai-maturity-assessment/tree/main/DRAFT)
+- [Join the Discussion on Slack](https://owasp.slack.com/archives/C089K6KFZMG) (self registration via: [https://owasp.org/slack/invite](https://owasp.org/slack/invite))
 
 Whether you're a practitioner, auditor, or policymaker—we'd love to hear how you're using AIMA or where we can improve.
 
