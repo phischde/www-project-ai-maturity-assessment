@@ -9,12 +9,14 @@ tags: AIMA
 
 # Roadmap – Post V1
 
-Version 1.0 of the OWASP AI Maturity Assessment (AIMA) has been released.
+On August, 11th 2025 Version 1.0 of the OWASP AI Maturity Assessment (AIMA) has been released.
 
 ---
 
 ## Phase 1 - Feedback & Adoption (Aug–Nov 2025)
 
+- Create the official OWASP AIMA Presentation to use to present the project inside your organization or at the OWASP Meetings.
+- Start dissemination of the project: identify a set of conferences to promote a talk on OWASP AIMA
 - Collect structured feedback via:
     - GitHub Issues
     - Community surveys
