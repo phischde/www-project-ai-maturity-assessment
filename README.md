@@ -14,7 +14,7 @@ Mission Statement: The OWASP AI Maturity Assessment (AIMA) aims to be the premie
  * [iCal Link](https://calendar.google.com/calendar/ical/c_458f602f307256f02c38571b298cc5c093eba023073d80f013953482e051312a%40group.calendar.google.com/public/basic.ics)
 
 ### Recurring Meetings
-- **Weekly Brainstorming**: Every Wednesday at 6:00 – 7:00pm CET ([Google Meet Link](https://meet.google.com/sek-zwkd-woc))
+- **Bi-weekly Brainstorming**: Every Wednesday at 6:00 – 7:00pm CET ([Google Meet Link](https://meet.google.com/sek-zwkd-woc))
 
 ### Slack Channel  
 - Join the Discussion on the OWASP Slack Channel [#project-aima](https://owasp.slack.com/archives/C089K6KFZMG)
