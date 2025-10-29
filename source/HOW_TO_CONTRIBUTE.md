@@ -25,7 +25,7 @@ plan on editing.
 ### 2. Make Edits (Option A: GitHub Web UI – No Git Required)
 
 - Navigate to your forked copy.
-- Browse to the folder you'd like to contribute to: `docs/DRAFT/…`
+- Browse to the folder you'd like to contribute to: `source/latest/...`
 - Click the file (e.g., `20_Example_Section.md`) and choose “Edit this file.”
 - Make your changes using Markdown syntax.
 - Scroll down and write a short summary of your change.
@@ -39,7 +39,7 @@ If you’re comfortable with Git:
 
 ```bash
 # Clone your fork
-git clonehttps://github.com/YOUR_USERNAME/www-project-ai-maturity-assessment.git
+git clone https://github.com/YOUR_USERNAME/www-project-ai-maturity-assessment.git
 cd AIMA
 
 # Make sure you're on the main branch
