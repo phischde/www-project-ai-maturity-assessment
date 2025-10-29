@@ -31,4 +31,4 @@ jobs:
         uses: actions/upload-artifact@master
         with:
           name: Draft-PDF
-          path: combined_draft.pdf
+          path: combined_draft_latest.pdf
