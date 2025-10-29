@@ -29,7 +29,7 @@ The PDF is generated automatically via GitHub Actions after each commit to the r
 
 
 ## Structure and Validation
-The **PDF Preview Tool** follows the [Content Guidelines](./CONTENT_GUIDELINES.md) in terms of structure and naming.
+The **PDF Preview Tool** follows the [Content Guidelines](CONTENT_GUIDELINES.md) in terms of structure and naming.
 Any structural issues will cause the GitHub Action to fail, if validation is enabled in the future.
 
 ⠀

@@ -24,11 +24,11 @@ jobs:
           pip install markdown weasyprint
 
       - name: Generate PDF
-        run: python ./bin/generate_pdf_preview.py DRAFT/content ./combined_draft.pdf
+        run: python ./scripts/generate_pdf_preview.py source/latest ./combined_draft_latest.pdf
         working-directory: ${{ github.workspace }}
 
       - name: Upload artifact
         uses: actions/upload-artifact@master
         with:
           name: Draft-PDF
-          path: combined_draft.pdf
+          path: combined_draft_latest.pdf
